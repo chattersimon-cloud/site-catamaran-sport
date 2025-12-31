@@ -30,7 +30,7 @@ Ce site présente le catamaran, un voilier à deux coques offrant une expérienc
 
 ## Hébergement
 
-Le site est hébergé sur GitHub Pages : [Votre lien ici]
+Le site est hébergé sur GitHub Pages : https://chattersimon-cloud.github.io/site-catamaran-sport/
 
 ##  Auteur
 
