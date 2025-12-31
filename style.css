@@ -359,7 +359,7 @@ footer {
     animation: fadeIn 0.8s ease-out 1s both;
 }
 
-/* Responsive Design */
+/* Design */
 @media (max-width: 768px) {
     .hero h1 {
         font-size: 2rem;
@@ -387,4 +387,3 @@ footer {
         max-width: 100%;
     }
 }
-
